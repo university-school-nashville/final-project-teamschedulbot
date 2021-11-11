@@ -1,0 +1,11 @@
+# final-project-teamschedulbot
+final-project-teamschedulbot created by GitHub Classroom
+
+Computer Programming Final Project Proposal
+
+SchedulBot:
+A discord bot that allows you to
+input your schedule and will message you info about your classes. 
+When a class ends, the bot will tell everyone in the server what 
+class they have, what block it is, what room it's in, and what
+members of the server you have it with.
